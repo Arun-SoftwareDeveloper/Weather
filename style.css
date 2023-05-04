@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(16, 16, 35);
+    color:white;
+   
+}
+button{
+    width:300px;
+    height:50px;
+}
+.india{
+   background-color: aqua;
+}
+img{
+    width:300px;
+    height:200px
+}
+
+#india-name,#india-flag,#india-capital,#india-region,#india-latlong,#india-countrycode,#india-weather{
+    position:relative;
+    left:500px;
+    bottom: 600px;
+}
+#cuba-name,#cuba-flag,#cuba-capital,#cuba-region,#cuba-latlong,#cuba-countrycode,#cuba-weather{
+    position:relative;
+    left:1000px;
+    bottom: 1180px;
+}
